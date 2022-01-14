@@ -1,3 +1,7 @@
+body{
+  background-color: bisque;
+  color: red;
+}
 .App {
   margin: auto;
   max-width: 900px;
@@ -7,7 +11,6 @@
   margin-top: 40px;
   justify-content: space-around;
 }
-
 h1{
   text-align: center;
 }
